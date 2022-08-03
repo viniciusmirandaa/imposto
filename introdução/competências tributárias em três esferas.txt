@@ -1,0 +1,32 @@
+competência tributária em três esferas
+
+federal:
+
+IPI - Imposto Produtos Industrializados
+PIS/PASEP - Programas de Integração Social e de Formação do Patrimônio do Servidor
+COFINS - Contribuição para o Financiamento da Seguridade Social
+Cide Combustíveis - Contribuição de Intervenção do Domínio Econômico incidente sobre a importação e a comercialização de combustíveis e seus derivados
+IR - Imposto de Renda
+II - Imposto Sobre Importação
+IOF - Imposto sobre Operações Financeiras
+ITR - Imposto Territorial Rural
+INSS - Instituto Nacional do Seguro Social, relativo as Contribuições Previdenciárias 
+CSLL - Contribuição Sociial sobre Lucro Líquido
+
+
+
+
+estadual:
+
+ICMS - Imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação
+IPVA - Imposto sobre a propriedade de veículos automotores
+ITCMD - Imposto sobre a transmissão "Causa Mortis" e de doação de quaisquer bens ou direitos
+
+
+
+
+
+municipal:
+
+ISSQN - Imposto sobre serviços de qualquer natureza
+IPTU - Imposto predial territorial urbano

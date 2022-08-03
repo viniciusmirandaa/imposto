@@ -1,0 +1,50 @@
+espécies de tributos:
+
+- impostos # mais importante
+- taxas
+- contribuições de melhorias
+- empréstimos compulsórios
+
+
+
+classificação de tributos:
+
+- diretos
+	- impostos que cabem ao cidadão pagar.
+- indiretos
+	- impostos que são imbutidos nos preços, porém não há a obrigação de recolher.
+	
+	
+	
+
+
+obrigações tributárias 
+ 
+- principal:
+	- é definido como obrigação principal, o ato do contribuinte recolher o imposto. (em sua maior parte nas operações indiretas)
+- acessória:
+	- obrigações onde é necessário cumprir uma espécie de declaração.
+	
+	
+	
+	
+
+fatores da obrigação principal
+
+contribuinte:
+ - aquele responsável pela apuração/recolhimento do imposto. (aquele que emite o documento fiscal)
+ - possue cnpj e inscrição estadual, onde nasce o contribuinte junto a Receita Federal e Ministério da Fazenda.(dizendo respeito a PJ)
+ - ou seja, contribuinte é aquele que contribui com o pagamento de imposto.
+fato gerador:
+ - se dentro de uma lei aquela ação é o fato gerador da operação;
+ - momento que há a incidencia do imposto.(exemplo: venda, o fato gerador do imposto) 
+base de cálculo:
+ - com base na lei. 
+ - é acrescido o valor base mais frete, juros, etc.
+alíquota:
+ - baseado na lei;
+ - porcentagem que o contribuinte irá pagar referente a base de cálculo.
+
+
+ou seja, o contribuiente é quem paga o imposto, o fato gerador é o que incide o pagamento do imposto, a base de cálculo é o valor agregado do serviço, e a alíquota é 
+a porcentagem que se deve pagar de imposto baseado no passo anterior.

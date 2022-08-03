@@ -1,0 +1,20 @@
+Código que deve ser informado para cada item da nota fiscal.
+Referente à entrada e saída de produtos, nas operações internas, interestaduais e exterior, é representado por um código numérico que 
+identifica a natureza de circulação da mercadoria ou a prestação de serviço de transportes. 
+
+Para convencionar as operações, de forma que não haja uma subjetividade na nomenclatura.
+
+Códigos:
+
+Para NF-e de Entrada:
+	1000 - Entrada ou Prestação de Serviços para o Estado
+	2000 - Entrada ou Prestação de Serviços para outros Estados
+	3000 - Entrada ou Prestação de Serviços para o Exterior
+	
+	
+Para NF-e de Saída:
+	5000 - Saídas ou Prestação de Serviços para o Estado
+	6000 - Saídas ou Prestação de Serviços para outros Estados
+	7000 - Saídas ou Prestação de Serviços para o Exterior
+	
+	

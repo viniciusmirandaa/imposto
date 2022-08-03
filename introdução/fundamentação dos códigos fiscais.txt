@@ -1,0 +1,40 @@
+fundamentação dos códigos fiscais:
+
+CFOP: 
+ - código fiscal da operação;
+ - define a operação, uma venda, devolução, se é interestadual ou interna;
+ - o código padronizado em que o fisco identifica quais operações estão sendo feitas;
+ - incide em cada item da nota fiscal, de forma em que na mesma nota fiscal não haja CFOP's divergentes, como por exemplo venda interna e venda interestadual.
+CRT: 
+ - código do regime tributário;
+ - define se a empresa que está emitindo a nota fiscal se enquandra em uma tributação normal ou simples nacional;
+CST: 
+ - código da situação tributária;
+ - se diz respeito aos códigos CRT 2 e 3;
+ - cada produto possui um CST.
+CSOSN: 
+ - código da situação da operação do simples nacional;
+ - se diz respeito aos códigos CRT 1;
+ - cada produto possui um CSOSN.
+NCM:
+ - nomenclatura comum no mercosul;
+ - o que compõe o NCM é a TIPI (tabela do IPI);
+ - todo produto possue um NCM próprio;
+ - cada item tendo 8 caractéres e definido pela RF;
+ - possue uma relação direta com a alíquota do IPI;
+ - é possível que a tabela TIPI mude conforme o tempo.
+CEST:
+ - código especificador da substituição tributária;
+ - trabalha junto com o NCM;
+ - resultado da relação dos produtos que possuem substituição tributária;
+ - por item;
+ - se da pelo segmento do produto.
+
+
+
+ou seja, em toda nota fical, para cada produto, terá um CFOP, NCM, CEST e CST. 
+O CFOP categorizando qual é a operação sendo exercida naquele produto.
+O CRT com o código da empresa, definindo assim, qual sera a tributação da mesma.
+O CST ou CSOSN será a configuração tributária para o seu código relativo.
+O NCM irá identificar o produto, incidindo qual será a alíquota do IPI também.
+O CEST definindo se esse NCM possui substituição tributária.

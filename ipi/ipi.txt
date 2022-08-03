@@ -1,0 +1,26 @@
+Imposto sobre produto industrializado.
+
+Contribuinte do IPI: 
+qualquer pessoa jurídica que execute operações de industrialização ou equiparada, sobre produtos nacionais e estrangeiros.
+
+Equiparada: o consumidor não produz a industrialização, a terceriza.
+
+
+Fato Gerador: 
+Na saída do produto industrializado do estabelecimento industrial ou equiparado e o desembaraço aduaneiro de produto de procedência estrangeira.
+
+
+é caracterizado a industrialização do produto, a transformação, beneficiamento, montagem, mudar a funcionalidade.
+
+
+
+Base de Cálculo:
+
+a base de cálculo é semelhante ao do ICSM, sendo acrescido ao valor do produto, o frete e das demais despesas.
+
+as alíquotas do ipi estão presentes na TIPI. 
+possuindo para cada produto, seu ncm, descrição e alíquota referente ao IPI.
+
+
+
+

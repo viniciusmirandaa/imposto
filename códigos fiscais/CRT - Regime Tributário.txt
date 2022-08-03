@@ -1,0 +1,21 @@
+Regime Tributário:
+
+ - Simples Nacional
+ - Lucro Presumido
+ - Lucro Real
+ 
+ 
+CRT:
+	1: Simples Nacional
+	2: Simples Nacional com Excesso de Sublimite
+	3: Regime Normal
+	
+	
+O código 1 (Simples Nacional), utiliza o regime tributário Simples Nacional e é configurado como CSOSN.
+O código 2 (Simples Nacional com Excesso de Sublimite), utiliza o regime tributário Simples Nacional e é configurado como CST.
+O código 3 (Regime Normal), utiliza o regime tributário Lucro Real ou Lucro Presumido, e é configurado como CST.
+
+
+
+
+

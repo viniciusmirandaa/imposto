@@ -1,0 +1,10 @@
+hierarquia de leis:
+
+- constituição federal
+	- emenda constitucional, tratados e convenções internacionais
+		- leis complementares
+			- leis ordinárias, medidas provisórias
+				- resoluções no senado federal
+					- convênios firmados, atos, instruções normativas
+					
+					
